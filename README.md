@@ -22,7 +22,7 @@ RestPress™ is a behavioral-science-inspired smart sleep prototype that deliver
 
 ## 🔌 Wiring Diagram
 
-You can find a simplified schematic in `wiring_diagram.png`.
+You can find a simplified schematic in `wiringdiagram.png`.
 
 ---
 
@@ -59,5 +59,5 @@ MIT License — see [LICENSE](./LICENSE) file.
 
 ## 📫 Contact
 
-For collaboration or media inquiries: *eringleigh.gallop[at]gmail.com*  
+For collaboration or media inquiries: *eringleighgallop[at]gmail.com*  
 Please **do not** copy or reproduce the RestPress™ brand or design.
