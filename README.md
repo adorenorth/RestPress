@@ -59,5 +59,5 @@ MIT License — see [LICENSE](./LICENSE) file.
 
 ## 📫 Contact
 
-For collaboration or media inquiries: *eringleigh.gallop[at]email.com*  
+For collaboration or media inquiries: *eringleigh.gallop[at]gmail.com*  
 Please **do not** copy or reproduce the RestPress™ brand or design.
